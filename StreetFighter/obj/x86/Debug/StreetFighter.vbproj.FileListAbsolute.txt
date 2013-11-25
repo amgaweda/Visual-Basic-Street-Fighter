@@ -1,0 +1,61 @@
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\bin\Debug\StreetFighter.exe
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\bin\Debug\StreetFighter.pdb
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\bin\Debug\StreetFighter.xml
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\StreetFighter.Resources.resources
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\StreetFighter.exe
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\StreetFighter.xml
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+F:\awgaweda036\AppData\Local\Temporary Projects\StreetFighter\obj\x86\Debug\StreetFighter.StreetFighterScreen.resources
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\bin\Debug\StreetFighter.exe
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\bin\Debug\StreetFighter.pdb
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\bin\Debug\StreetFighter.xml
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.StreetFighterScreen.resources
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.Resources.resources
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.StreetFighterScreen.resources
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\bin\Debug\StreetFighter.exe
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\bin\Debug\StreetFighter.pdb
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\bin\Debug\StreetFighter.xml
+C:\Users\Adam\Desktop\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.Resources.resources
+C:\Users\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+C:\Users\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+C:\Users\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.exe
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.pdb
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.xml
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.StreetFighterScreen.resources
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.Resources.resources
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\awgaweda036\Desktop\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+F:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+F:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.exe
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.xml
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.pdb
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.exe
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.pdb
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\bin\Debug\StreetFighter.xml
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.StreetFighterScreen.resources
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\StreetFighter.Resources.resources
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\CIS 115 - Intro to Prog and Logic\Projects\In-Class\Conditional Statements\Street Fighter 2\StreetFighter\StreetFighter\obj\x86\Debug\GenerateResource.write.1.tlog
